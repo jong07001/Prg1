@@ -1,0 +1,14 @@
+C:\VS\C# 02-09 Väder fråga\obj\Debug\net8.0\C# 02-09 Väder fråga.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\C# 02-09 Väder fråga\obj\Debug\net8.0\C# 02-09 Väder fråga.AssemblyInfoInputs.cache
+C:\VS\C# 02-09 Väder fråga\obj\Debug\net8.0\C# 02-09 Väder fråga.AssemblyInfo.cs
+C:\VS\C# 02-09 Väder fråga\obj\Debug\net8.0\C# 02-09 Väder fråga.csproj.CoreCompileInputs.cache
+C:\VS\C# 02-09 Väder fråga\bin\Debug\net8.0\C# 02-09 Väder fråga.exe
+C:\VS\C# 02-09 Väder fråga\bin\Debug\net8.0\C# 02-09 Väder fråga.deps.json
+C:\VS\C# 02-09 Väder fråga\bin\Debug\net8.0\C# 02-09 Väder fråga.runtimeconfig.json
+C:\VS\C# 02-09 Väder fråga\bin\Debug\net8.0\C# 02-09 Väder fråga.dll
+C:\VS\C# 02-09 Väder fråga\bin\Debug\net8.0\C# 02-09 Väder fråga.pdb
+C:\VS\C# 02-09 Väder fråga\obj\Debug\net8.0\C# 02-09 Väder fråga.dll
+C:\VS\C# 02-09 Väder fråga\obj\Debug\net8.0\refint\C# 02-09 Väder fråga.dll
+C:\VS\C# 02-09 Väder fråga\obj\Debug\net8.0\C# 02-09 Väder fråga.pdb
+C:\VS\C# 02-09 Väder fråga\obj\Debug\net8.0\C# 02-09 Väder fråga.genruntimeconfig.cache
+C:\VS\C# 02-09 Väder fråga\obj\Debug\net8.0\ref\C# 02-09 Väder fråga.dll
